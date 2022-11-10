@@ -1,2 +1,13 @@
-
+#nav-actor{
+    src: url();
+}
+#nav-quote{
+    src: url();
+}
+#actor{
+    background-color: aqua;
+}
+#quote{
+    background-color: bisque;
+}
 /* Your CSS Code here. */
